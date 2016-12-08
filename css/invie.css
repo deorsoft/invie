@@ -49,6 +49,9 @@ input:focus, textarea:focus{
   width: 800px;
   margin: auto;
   position: relative;
+  display: flex;
+  align-items: center;
+
 }
 
 .background{
